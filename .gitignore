@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Ambientes Python
+# ─────────────────────────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Pesados demais para o git, regeneráveis, com o script que os regenera
+# ─────────────────────────────────────────────────────────────────────────────
+
+# 260 MB, baixado do NCBI por scripts/build/sample_by_popularity.py
+data/sources/
+
+# 30 MB em ~2.000 arquivos: cache das respostas do PubTator, refeito sob demanda
+# por scripts/audit/pubtator_discard.py
+results/cache_pubtator/
+
+# imagem Singularity compilada (3,3 GB); a definição está versionada
+hpc/container/*.sif
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Versionado DE PROPÓSITO: sem isto nenhum número é reproduzível
+# ─────────────────────────────────────────────────────────────────────────────
+#   data/benchmark_v5.jsonl      → os 4.000 casos
+#   results/answers/*.jsonl      → as 16.000 respostas dos modelos
+#   results/judgments/*.jsonl    → os julgamentos
+#   nebb/gold_standard.json      → o dicionário do NEBB
+#   nebb/data/                   → HGNC + UniProt (a versão exata importa)
+
+# ─────────────────────────────────────────────────────────────────────────────
+# IDE e logs
+# ─────────────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.log
+*.out
+*.err

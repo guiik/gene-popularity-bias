@@ -1,0 +1,5 @@
+# O pipeline é quase todo biblioteca padrão. As dependências externas:
+pandas>=2.0      # amostragem e rebalanceamento dos estratos
+requests>=2.31   # APIs HGNC / UniProt / MyGene.info no NEBB
+pytest>=7.4      # testes do NEBB
+requests-mock>=1.11  # fixture dos testes de API do NEBB

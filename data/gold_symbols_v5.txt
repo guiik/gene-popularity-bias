@@ -1,0 +1,3284 @@
+(pro)napsin B
+.
+11beta-HSD1
+20alpha-hydroxysteroid dehydrogenase
+4-hydroxyphenylpyruvate dioxygenase
+5-HT2B
+6-pyruvoyltetrahydropterin synthase
+67 kD laminin receptor
+7SK
+A1BG-AS1
+A2M-AS1
+AACP
+AANAT
+AATBC
+ABCA7
+ABCB1
+ABCB9
+ABCC6
+ABCC6P2
+ABCG4
+ABHD1
+ABHD11-AS1
+ACA45
+ACE
+ACE2
+ACER1
+ACSL5
+ACSL6
+ACTG2
+ACTL7a
+ACTL9
+ACTN4
+ADAM 20 and 21
+ADAM20
+ADAMTS18
+ADAMTS6
+ADAMTS7
+ADAMTS9-AS2
+ADGRG2
+ADGRG4
+ADH1B
+ADHFe1
+ADORA2A antisense RNA 1
+ADP-ribosylation factor-like 4A
+ADPGK-AS1
+ADRB2
+AE1-3
+AEN
+AF6
+AFAP1-AS1
+AFF4
+AGAP2
+AGBL5
+AGT
+AIF
+AKAP149
+AKIP1
+AKT
+AKT1
+ALG-2
+ALK
+ALK7
+ALL1
+ALLC
+ALOX12B
+AMACR
+AMER3
+AMYP1
+AMZ2
+ANGPTL7
+ANKDD1A
+ANKFN1
+ANKRD55
+ANO5
+ANP32D
+ANRIL
+ANXA13
+AOX3
+AP-1
+AP-2beta
+APC
+APC membrane recruitment 1
+APC1
+APM-1
+APOBEC3A
+APOBEC3C
+APOBEC3G
+APOC1
+APOE
+APOL1
+APPL1
+APeg3
+AQP3, -7, -8, and -11
+AQP9
+ARAF2
+ARAP1-AS1
+AREL1
+ARG2
+ARHGAP15
+ARHGAP17
+ARHGAP6
+ARHGEF33
+ARL2
+ARL4C
+ARL9
+ARLTS1
+ARMS2
+AROS
+ARSH
+AS1DHRS4
+AS3MT
+ASAP1-IT1
+ASBEL
+ASIP
+ASK1
+ASPM
+ASPP) 1
+ASRGL1
+ASTN2
+AT1R
+ATAD3A
+ATAT1
+ATFB5
+ATG5
+ATM
+ATP1BL1
+ATP4A
+ATP5B
+ATP5G1
+ATP6V1G1
+ATP7B
+ATP8A2
+ATPase II
+ATRAP
+ATRC1
+ATXN2
+AUTS1
+AZGP1P2
+AZIN1
+Abeta
+Abl-interactor-2
+Act1
+Actin Filament-Associated Protein 1-Like 1
+Acylglycerol kinase
+AdipoR2
+Adiponectin
+Ae4
+Airn
+Akt
+Amphoterin
+Amy1
+Androgen Receptor
+Androgen receptor
+Angiopoietin-like 7
+Angiotensin-converting enzyme
+Angiotensinogen
+Ankyrin repeat domain 28
+Anosmin 1
+Apaf-1
+Apolipoprotein A-I
+Apolipoprotein A1
+Apolipoprotein E
+Apolipoprotein E4
+Apolipoprotein L6
+Argonaute 2
+Arl2
+Arylsulfatase A
+Arylsulfatase D
+Ataxin-3
+Atg13
+Atrophin-1
+Aurora Kinase A
+Aven
+B and T Lymphocyte Attenuator
+B cell-stimulating factor-3
+B-type natriuretic peptide
+B7-H1
+B7-H6
+BACH2
+BAF
+BAF53
+BAFF-R
+BAG6
+BAM22
+BAMBI
+BANF1
+BAP1
+BARD1
+BATF2
+BAX
+BC200
+BCAM
+BCL1
+BCL2
+BCL8
+BCNP1
+BCR-ABL
+BCR-ABL1
+BCRP1
+BCSC-1
+BDKRB2
+BDNF
+BENE
+BEYLA
+BGLT3
+BGas
+BIKE
+BIRC5
+BISPR
+BIVM
+BLK
+BLT2
+BMAL1
+BMP2
+BMP5
+BMP9
+BMPR2
+BMZF3
+BNIP3L
+BNIP3P1
+BNP
+BRAF
+BRAWNIN
+BRCA
+BRCA1
+BRCA1/2
+BRCA2
+BRCAT54
+BRIP1
+BRK
+BSG
+BSP
+BTF3
+BTG1
+BTNL2
+BVES-AS1
+BVR1
+Bach1
+Bapx1
+Barhl2
+Bax
+Bcl-2
+Bcl-xL
+Bcl2
+Bcr-Abl
+Beclin 1
+Bet3L.
+Beta-catenin
+Beta2-adrenergic receptor
+BiP
+Biliverdin reductase--a
+Bnip3
+Brain-derived neurotrophic factor
+Brightlike
+Brn-3b
+Brx
+Bub1
+Bub3
+C-C motif ligand 5
+C-KIT
+C-X-C chemokine receptor 4
+C-kit
+C-reactive protein
+C-type lectin receptor
+C/EBPdelta
+C12ORF40
+C14ORF19
+C14orf28
+C16orf74
+C18orf1
+C18orf42
+C18orf62
+C1QTNF6
+C1orf127
+C1orf141
+C1orf185
+C1orf192
+C22orf42
+C2ORF80
+C4,C3,C5,C9
+C4b
+C4orf34
+C5L2
+C5a
+C5orf47
+C5orf66-AS1
+C6orf70
+C7ORF29
+C7orf4
+C8ORF37
+C8orf46
+C9orf152
+C9orf69
+CA XII
+CACNA1A
+CACNA1G
+CADM1
+CAHM
+CAMSAP2
+CAPN10
+CARD
+CARD15
+CART
+CASC11
+CASC2
+CASC8
+CASP3
+CASPASE-12
+CASTOR1
+CATIP antisense RNA 1
+CATR1
+CB1R
+CBF-C
+CBP35
+CBX7
+CC-chemokine receptor 5
+CCAT1
+CCDC103
+CCDC106
+CCDC122
+CCDC129
+CCDC144NL-AS1
+CCDC154
+CCDC155
+CCDC157
+CCDC175
+CCDC26
+CCG1-interacting factor A
+CCL18
+CCL4
+CCL4L2
+CCL7
+CCM3
+CCN1
+CCND1
+CCNE1
+CCNH
+CCNJ
+CCNL1
+CCR2
+CCR3
+CCR5
+CCR9
+CCT8
+CCT8L1
+CD117
+CD133
+CD137
+CD151
+CD169
+CD19
+CD1c
+CD209
+CD21
+CD23
+CD25
+CD26
+CD28
+CD2BP2
+CD30
+CD300H
+CD300a/c
+CD300b
+CD31
+CD34
+CD37
+CD4
+CD40
+CD40 ligand
+CD44
+CD45
+CD46
+CD48
+CD49b
+CD52
+CD54
+CD55
+CD59
+CD63
+CD70
+CD79 alpha
+CD8
+CD81
+CD89
+CD94
+CD95
+CDC23
+CDC25B
+CDC91L1
+CDH16
+CDHR3
+CDK12
+CDK2
+CDK9
+CDKAL1
+CDKN1B
+CDKN1C
+CDRT15
+CDX2
+CEACAM20
+CEBPA
+CEBPA-AS1
+CECR2
+CECR3
+CELA3B
+CELP
+CELSR1
+CENP-E
+CENP-F
+CETP
+CFTR
+CGI-58
+CGM12
+CGM6
+CGM8
+CHAC2
+CHCHD5
+CHFR
+CHIT1
+CHL1-AS1
+CHL2
+CHMP3
+CHMP4
+CHOP
+CHRNA5
+CHRNA6
+CKIP-1
+CKLFSF8
+CKS1B
+CKS2
+CLCN1
+CLDN25
+CLEC4GP1
+CLIC3
+CLIC4
+CLN9
+CLRN2
+CMKLR1
+CMTM4
+CMTX3
+CNAIP
+CNDP1
+CNKSR2
+CNNM1-4
+CNTNAP2
+CNrasGEF
+COCH
+COG-7
+COG3
+COL16A1
+COL22A1
+COL6A3
+COL9A1
+COLEC11
+COMT
+COX-2
+CPEB1
+CPI-17
+CPS1-IT1
+CRAM-A
+CREB binding protein
+CREB-binding protein
+CREB1
+CREB3L3
+CREBL2
+CREG2
+CRIPTO
+CRTAC1
+CRYBB2P1
+CRYM
+CSN5
+CSTP1
+CT2
+CTC-501O10.1
+CTD-2256P15.2
+CTLA-4
+CTLA4
+CTR2
+CTXN3
+CUB domain containing protein 1
+CX3CL1
+CXCL10
+CXCL12
+CXCL16
+CXCL8
+CXCR1
+CXCR4
+CXCR5
+CXorf49
+CXorf66
+CYP 3A4 and 1A1
+CYP11A.
+CYP1A1
+CYP1A1MspI
+CYP1A2
+CYP21B
+CYP2A6
+CYP2C19
+CYP2C9
+CYP2D6
+CYP2GP2
+CYP3A7
+CYP4V2
+CYP4Z1
+Cabin1
+Cacna1g
+Cactin
+Calbindin-D9k
+Carbonic anhydrase 2 and 3
+Carboxypeptidase O
+Carcinoembryonic Antigen-related Cell Adhesion Molecule 20
+Cartilage Intermediate Layer Protein
+Caspase-3
+Cat L
+Cathelicidin Antimicrobial Peptide
+Caveolin-1
+Cavin-2
+Cbl-b
+Cdc37
+Cdc6
+Cdt2
+Cellular retinol binding protein II
+Cerox1
+Ceruloplasmin
+Charcot-Leyden crystal protein
+Chibby
+Cholesterol-25-Hydroxylase
+Ciapin1
+ClC-3
+Claudin-4
+Clec9A
+Clph
+CoREST
+Cofilin
+Contactin 1
+Copeptin
+Corin
+Crb2
+CtIP
+Cu/Zn superoxide dismutase
+Cyclin A2
+Cyclin D1
+Cyclooxygenase-2
+CypA
+Cytochrome P450 1A1
+Cytokeratin-19
+D-dopachrome tautomerase
+D1F15S1A
+DA transporter
+DAD-R
+DAGL-Beta
+DANCR
+DANT2
+DARPP-32
+DAX-1
+DBE-T
+DBH-AS1
+DBIP1
+DC-SIGNR
+DCAF8L2
+DCP1A
+DDA1
+DDA3
+DDP1
+DDR2
+DDX43
+DDX56
+DEFB25
+DEK
+DENND3
+DEPDC1
+DEPTOR
+DEspR
+DFF40
+DFF45
+DFNA18
+DFNA24
+DFNA30
+DFNA33
+DFNA47
+DFNA49
+DFNA53
+DFNA58
+DFNA59
+DFNB17
+DFNB45
+DFNB59
+DFNB65
+DFNB85
+DGKI
+DHODH
+DHRS2
+DHX40
+DICER1-AS1
+DIGIT
+DINO
+DIO3
+DIO3OS
+DIP2A
+DISC2
+DJ-1
+DKK3
+DKKL1
+DLC1
+DLEU1
+DLEU2
+DLG1 Antisense RNA 1
+DMC1
+DMT1
+DNA Damage-Binding Protein 2
+DNA Methyltransferase 1
+DNA Polymerase iota
+DNA ligase IV
+DNA polymerase iota
+DNA polymerase theta
+DNA primase 1
+DNAH14
+DNAH17-AS1
+DNAI1
+DNAJA4
+DNAJB8
+DNASE1L1
+DNER
+DNL1L
+DNMBP-AS1
+DNMT3A
+DNMT3L
+DOC-1R
+DOCK6
+DOT1L
+DP1
+DP58
+DPD
+DPPA4
+DPY19L2
+DPYD
+DQB1
+DRB1
+DRD2
+DRGX
+DRIP205
+DS-epi1
+DSCR9
+DTHD1
+DTX1
+DTX3
+DTX3L
+DUNQU1
+DUOX2
+DUSP1
+DUSP4
+DUX3
+DUX4
+DUXB
+DYNLRB2
+DYRK1A
+DYX3
+Daple
+Dbf4
+DcR3
+Dectin-1
+Delta-like 1 homolog
+Diacylglycerol acyltransferase
+Dickkopf-3
+Dll1
+Dna2
+DnaJ homolog subfamily C member 5B
+Dopamine D2 receptor
+Dopamine beta hydroxylase
+Drp1
+E-cadherin
+E2F-1
+E2F1
+E2F7
+E2Fs 1-5
+EBI3
+EBLN-1 to -4
+EBLN1
+EBLN3P
+ECM1
+ECP
+EDAR
+EFG1
+EFTUD2
+EGF receptor
+EGFR
+EHD3
+EIF3J-AS1
+EIF4EL2
+ELAC2
+ELFN1-AS1
+EMX2OS
+ENGRAILED 2
+ENO1-IT1
+ENaC gamma
+EP2/4
+EP300
+EPHX1
+EPO
+ERAP1
+ERBB2
+ERBIN
+ERCC6L2
+ERDA1
+ERGIC-53
+ERICD
+ERK
+ERK1
+ERK1/2
+ERVK4
+ERVV-1
+ERVWE1
+ERbeta
+ERp60
+ESC42
+ESR1
+ESR2
+ESRRB
+ET-1
+ETF alpha
+ETM
+ETM2
+ETV2
+ETV6
+EXPH5
+EXT1
+EXTL2P
+EZH2
+EZR-AS1
+Ectodysplasin
+Egr-1, -2, and -3
+Elk2
+Elmo1
+Emx1
+Endoglin
+Endothelial nitric oxide synthase
+Endothelin-1
+Endothelin-3
+Enhancer of Zeste Homolog 2
+Enteropeptidase
+Ep-CAM
+EphA2
+EphB6
+Ephrin type-A receptor 10
+Epidermal growth factor receptor
+Epist
+ErbB4
+Estrogen receptor beta
+Exonuclease 1
+Eyes Shut Homolog
+Ezrin
+F-box protein 42
+FAA
+FAA1
+FABP12
+FAK
+FAM138B
+FAM149A
+FAM18B
+FAM20c
+FAM215A
+FAM224A
+FAM225A
+FAM225B
+FAM230B
+FAM26F
+FAM46A
+FAM66C
+FAM71B
+FAM81A
+FAM83F
+FANCD2
+FAS
+FASL
+FASLG
+FAU1P
+FBLIM1
+FBX25
+FBXO10
+FBXO32
+FCRL2
+FDX1
+FFAR1
+FGF-binding protein 3
+FGF18
+FGF19
+FGFR-1
+FGFR1
+FGFR1-3
+FGFR3
+FGFR4
+FGFs 9, 16, and 20
+FGGY
+FHIT
+FIBIN
+FIG4
+FITM2
+FK506 binding protein 5
+FK506 binding protein-like
+FKBP4
+FKBP9P1
+FKBPL
+FKRP
+FLJ22447
+FLRT2
+FLT3
+FLYWCH1
+FMN1
+FMO6
+FOLR2
+FONG
+FOXA2
+FOXE1
+FOXG1
+FOXP3
+FOXS1
+FPSL-3
+FRA7G
+FRDA2
+FREAC-1
+FRMD4A
+FSH receptor
+FTO
+FTO-IT1
+FTX
+FUNDC1
+FXRbeta
+FZD1
+Factor V Leiden
+Fam151b
+Fank1
+Fas
+Fbxo2
+FcRgamma
+FcgammaRIIB
+Fer-1-like protein 4
+Fezf2
+Fibroblast growth factor-5
+Fibulin-5
+Fidgetin-like 2
+Filaggrin
+Follistatin-like protein 1
+FoxO6
+FoxP3
+Foxp3
+Fyn
+G-CSF receptor
+G-protein-coupled receptor kinase-interacting protein-1
+GABABR1
+GABRQ
+GACAT1
+GACAT3
+GAD65
+GADD45alpha
+GALNS
+GAMT
+GAS5
+GAS6-AS2
+GATA-binding protein 3
+GATA3
+GBA1
+GC-B
+GC-D
+GC-related lncRNA1
+GCAP1
+GCASPC
+GCM1
+GCN2
+GEMIN1
+GHRH
+GHRH receptors
+GIPC
+GJB2
+GJB3
+GLC1I.
+GLC1P
+GLC3B
+GLIS3
+GLP
+GLTSCR1
+GLUDP2
+GLUT2
+GLUT3
+GLUT8
+GLY1
+GLYT2
+GM130
+GM2A
+GMDS-AS1
+GML
+GMP-r
+GNG2
+GNG7
+GOR
+GP73
+GPC2
+GPD1
+GPIX
+GPR105
+GPR113
+GPR114
+GPR20
+GPR30
+GPR33
+GPR34
+GPR39
+GPR41
+GPR42
+GPR52
+GPR64
+GPx4
+GRASP55
+GREM1
+GRM3
+GRP78
+GRalpha
+GSK-3b
+GSK-3beta
+GSK3beta
+GSPT1
+GST Theta1
+GSTM1
+GSTO1-1
+GSTP1
+GSTT1
+GTF2IP1
+GTF2IRD2P1
+GTP cyclohydrolase I
+GUCY2C
+GXYLT2
+GYPB
+Gab2
+Gabrg2
+Gadd45a
+GalNAc-T
+Galectin-16
+Galectin-3
+Galpha13
+Gamma-glutamyl transpeptidase
+Gas6
+GemC1
+Gimap5
+GlcNAc6ST-1, -2, and -3
+Gli2
+Glycine decarboxylase
+Glycodelin
+Glypican 1
+Glypican-3
+Glypican-5
+Golgi protein 73
+Gremlin-1
+Growth differentiation factor 11
+Growth differentiation factor-15
+H-PGDS
+H19
+HA-1
+HAPLN1
+HAR1B
+HAS-1
+HAVCR2
+HB-1
+HBS1L
+HCG14
+HCN2
+HCN3
+HDAC1
+HDAC6
+HDL3
+HE2
+HE4
+HEK2
+HEPN1
+HER2
+HFE
+HGF
+HGF/SF
+HHARI
+HHLA2
+HHLA3
+HIC1
+HIF-1 alpha
+HIF-1alpha
+HIF1alpha
+HLA
+HLA DR B1
+HLA DRB1
+HLA complex group 4
+HLA-A and -B
+HLA-B
+HLA-B27
+HLA-C
+HLA-C.
+HLA-DM
+HLA-DP
+HLA-DQB
+HLA-DQB1
+HLA-DRB1
+HLA-DRB4
+HLA-F antisense RNA 1
+HLA-G
+HLF
+HMGA1-p.
+HMGA1L2
+HMGA1P4
+HMGA1P7
+HMGA2
+HMGB1
+HMGCR
+HMGIYL1
+HML6-c14
+HNF4 gamma
+HO-1
+HOXA5
+HOXA9
+HOXB
+HOXB1
+HOXB13
+HOXB3
+HOXB7
+HOXB9
+HOXC-AS1
+HOXC9
+HPAT5
+HPFH
+HRD1
+HSCARG
+HSF1
+HSF4
+HSP22
+HSP40
+HSP90
+HTR2A
+HTR2A-AS1
+HTR3A
+HTRA1
+HULC
+HUS1B
+HUWE1
+HYAL2
+HZF 1-10
+Hdm2
+Heat shock protein (Hsp) 90
+Helios
+Heme oxygenase-1
+HepaCAM
+Heparan sulfate 3-O-sulfotransferase 4
+Her2
+Hereditary hemochromatosis protein
+His-1
+Histidine triad nucleotide-binding protein 1
+Homeodomain-Interacting Protein Kinase 1
+Hsa-miR-1248
+Hsc70
+Hsp90
+Hsp90beta
+Hsp90n
+HtrA1
+HuR
+Huntingtin
+Hv1
+Hypoxia-inducible factor 1alpha
+I-309
+I-TAC
+IA-2
+ICAM-1
+ICOS
+ICSBP
+ID2-AS1
+ID3
+IDDM11
+IDDM2
+IDDM8
+IDH1-AS1
+IDI2-AS1
+IFIX
+IFN-alpha2
+IFN-gamma
+IFN-gamma receptor (IFNGR)-1 and 2
+IFNAR
+IFNG
+IFNL3
+IFNgamma
+IGF-1R
+IGF-I
+IGF1
+IGF2
+IGF2R
+IGFBP7
+IGFL1
+IGFL1P1
+IGFN1
+IGHMBP2
+IGHV3-21
+IKKi
+IL-10
+IL-17
+IL-17 receptor A
+IL-17A
+IL-18
+IL-1RN
+IL-1beta
+IL-1ra
+IL-21
+IL-31
+IL-31RA
+IL-33
+IL-38
+IL-4
+IL-4Ralpha
+IL-6
+IL-8
+IL10
+IL12B
+IL12RB2
+IL17REL
+IL18
+IL1RAPL1
+IL1alpha
+IL31RA
+IL3Ralpha
+IL4
+IL6
+IL8RB
+ILDR1
+IMPDH2
+ING5
+INHBA
+INHBE
+INO80
+INSIG2
+IPS-1
+IQCJ
+IRAIN
+IRE1alpha
+IRF-2
+IRF4
+IRS1
+ISPD
+ITGA2
+IgLON5
+IkappaBdelta
+Ind1
+Insulin
+Insulinoma-associated protein 1
+Integrin alpha4
+Integrin alpha6
+Interferon consensus sequence binding protein
+Interleukin 1 beta
+Interleukin-13
+Interleukin-17F
+Interleukin-18
+Interleukin-1beta
+Interleukin-6 receptor
+Intestinal cell kinase
+Irx5
+Iws1
+Izumo 1-3
+JAK1
+JAK2
+JAK3
+JARID2
+JCG5
+JDP1
+JIP1
+JNK
+JOSD2
+JPX
+Jak2
+KANK4
+KCNA2
+KCNC1
+KCND1
+KCNE1B
+KCNG2*rs62
+KCNH1
+KCNJ1
+KCNK3
+KCNMA1-AS1
+KCNMB2
+KCNQ1
+KCNQ1DN
+KCNQ1OT1
+KCNQ2-5
+KCNQ3
+KDM4B
+KDM4E
+KDR
+KIAA0125
+KIAA1109
+KIAA1199
+KIBRA
+KIF12
+KIF15
+KIF4B
+KIFC1
+KIN17
+KIR2DL3
+KIR2DS3
+KISS1R
+KIT
+KLF18
+KLF2
+KLF3-AS1
+KLHL13
+KLK2
+KLK2, 3, 13, and 14
+KLKB1
+KLRG1
+KMT2C
+KPL1
+KRAS
+KRC
+KRIT1
+KRT18P55
+KRT81
+KRT82
+Kallikrein 11
+Kelch-like ECH-associated protein 1
+Keratin K3
+Kif5A
+Kir4.1
+Klotho
+Klp1
+Ku80
+Kv4.3
+L-arginine amidinohydrolase
+L1CAM
+L3MBTL3
+L41
+LAG-3
+LAMRP2
+LAT2
+LCA14
+LCAL1
+LDL receptor-related protein 6
+LDLR
+LDLRAD3
+LEFTY B
+LEP
+LGI4
+LGR5
+LGR7
+LIF
+LIFR-AS1
+LILRA6
+LILRB5
+LIMP-2
+LINC00092
+LINC00160
+LINC00161
+LINC00165
+LINC00202
+LINC00210
+LINC00239
+LINC00284
+LINC00301
+LINC00305
+LINC00309
+LINC00311
+LINC00336
+LINC00339
+LINC00426
+LINC00470
+LINC00473
+LINC00486
+LINC00488
+LINC00493
+LINC00501
+LINC00504
+LINC00511
+LINC00514
+LINC00520
+LINC00524
+LINC00525
+LINC00540
+LINC00543
+LINC00565
+LINC00612
+LINC00624
+LINC00628
+LINC00629
+LINC00630
+LINC00639
+LINC00645
+LINC00657
+LINC00674
+LINC00680
+LINC00683
+LINC00689
+LINC00847
+LINC00852
+LINC00853
+LINC00858
+LINC00861
+LINC00869
+LINC00870
+LINC00880
+LINC00881
+LINC00882
+LINC00885
+LINC00886
+LINC00887
+LINC00899
+LINC00909
+LINC00922
+LINC00926
+LINC00942
+LINC00943
+LINC00960
+LINC00968
+LINC00974
+LINC00992
+LINC00997
+LINC00998
+LINC01004
+LINC01010
+LINC01011
+LINC01013
+LINC01021
+LINC01023
+LINC01061
+LINC01088
+LINC01089
+LINC01101
+LINC01106
+LINC01124
+LINC01132
+LINC01170
+LINC01197
+LINC01198
+LINC01207
+LINC01210
+LINC01225
+LINC01234
+LINC01235
+LINC01270
+LINC01288
+LINC01315
+LINC01339
+LINC01405
+LINC01419
+LINC01480
+LINC01485
+LINC01508
+LINC01510
+LINC01535
+LINC01546
+LINC01550
+LINC01551
+LINC01559
+LINC01569
+LINC01572
+LINC01574
+LINC01600
+LINC01608
+LINC01614
+LINC01617
+LIPH
+LIS2
+LIS2P
+LMF1
+LMNA
+LMO4
+LMOD1
+LMX1B
+LNK
+LOC100129148
+LOC100130460
+LOC100133669
+LOC100505851
+LOC101926975
+LOC101928100
+LOC102723505
+LOC102724340
+LOC105372576
+LOC105373813
+LOC105377871
+LOC146880
+LOC151484
+LOC154449
+LOC339803
+LOC389332
+LOC642361
+LOC730100
+LPCAT1
+LPP
+LPP-AS2
+LRAT
+LRH-1
+LRIT3
+LRP3
+LRP8
+LRRC38
+LRRC75A
+LRRK2
+LSAMP-AS1
+LSECtin
+LST-3TM12
+LTA4H
+LTBP4
+LTC4S
+LUADT1
+LULL1
+LUNAR1
+LYRM1
+LYST
+LZTR1
+Lamin A/C
+Lck
+Lck interacting transmembrane adaptor 1
+Leptin
+Leucine-rich repeat containing protein 10B
+Leukotactin-1
+Lewis blood group
+Lhx2
+Ligatin
+Linc00210
+Linc00515
+Linc00601
+Linc00703
+Linc00852
+Linc00893
+Linc00969
+Linc00974
+Linc01060
+Lipin 1
+Lipocalin 10
+Lipocalin-interacting-membrane-receptor
+Long intergenic non-protein coding RNA 115
+Long intergenic non-protein-coding RNA 1567
+Lp-PLA(2)
+LyGDI
+Lynx1
+Lysosome-associated membrane proteins-1 and -2
+Lyt-3
+M-CSF
+M-ficolin
+MACC1-AS1
+MAGE-4
+MAGE-A1
+MAGE-B5
+MAGE-C2
+MAGEB2
+MALAT1
+MAMDC4
+MANF
+MAOA
+MAP17
+MAP3K4
+MAPK14
+MAPT
+MARCO
+MATE2-K
+MBD3
+MBD3L2
+MBL1P1
+MBNL1
+MBNL1-AS1
+MBNL2
+MC4R
+MCDR3
+MCF2L-AS1
+MCP-1
+MDM2
+MDM2) and 4
+MDR1
+MEG3
+MEG8
+MEK5
+MEKK1
+MEL1
+MESTIT1
+MET
+METTL24
+METTL8
+MGC27382
+MGC70870
+MHC
+MHRT
+MIAT
+MIB2
+MICA
+MICB
+MID1
+MIIP
+MINT2
+MIP-T3
+MIR-1265
+MIR137HG
+MIR181A1HG
+MIR2052HG
+MIR30
+MIR3065
+MIR3117
+MIR378D2
+MIR4646
+MIR4697
+MIR503HG
+MIR6812
+MKRN1
+MKRN3
+MLC1
+MLH1
+MLH3
+MLL
+MLN51
+MMP-2
+MMP-8
+MMP-9
+MMP1
+MMP2
+MMP9
+MORF4
+MOST-1
+MP26
+MR1B
+MRGPRF
+MRPS18CP2
+MRX14
+MRX23
+MRX53
+MRX81
+MRX82
+MS4A10
+MS4A4E
+MSC-AS1
+MSI-1
+MSLNL
+MSRA
+MT-1
+MT-TF
+MT-TL1
+MT-TN
+MT-TW
+MT2A
+MT4-MMP
+MTG16
+MTHFDL1
+MTHFR
+MTRNR2L12
+MTRNR2L2
+MTRR
+MTTV
+MUC1
+MUC13
+MUC15
+MUC5AC
+MUC7
+MUDENG
+MUS81
+MUTYH
+MVK
+MXRA7
+MYAS1
+MYBPH
+MYC
+MYCBP
+MYCL2
+MYH3
+MYL2
+MYO15A
+MafA
+Mage-A4
+Mannan-binding lectin serine protease-2
+Mapk14
+Matrix Metalloproteinases 2 and 9
+Matrix metalloproteinase-1
+Mdm2
+Med19
+Megalin
+Melanoregulin
+Mesothelin
+Methylene tetrahydrofolate reductase
+Methylenetetrahydrofolate reductase
+MiR-1286
+MiR-135b
+MiR-15b
+MiR-1976
+MiR-29b
+MiR-302e
+MiR-3138
+MiR-3148
+MiR-3161
+MiR-3976
+MiR-4299
+MiR-4421
+MiR-4772
+MiR-568
+MiR-600
+MiR-610
+MiR-718
+MicroRNA 551a
+MicroRNA 617
+MicroRNA-1228
+MicroRNA-1246
+MicroRNA-1269b
+MicroRNA-146a
+MicroRNA-2053
+MicroRNA-3148
+MicroRNA-421
+MicroRNA-4270
+MicroRNA-4317
+MicroRNA-4463
+MicroRNA-4739
+MicroRNA-510
+MicroRNA-548p
+MicroRNA-575
+MicroRNA-606
+MicroRNA-6077
+MicroRNA-610
+MicroRNA-643
+MicroRNA-649
+MicroRNA-766
+MicroRNA-891b
+MicroRNA-922
+MicroRNA29a
+MicroRNAs-449a and -449b
+Mimt1
+Mis18alpha
+Mitoferrin-1
+MnSOD
+Mo25
+Msp58
+Mst1
+Msx2
+Munc13-4
+Myc
+Myeloperoxidase
+Myoregulin
+Myotubularin
+N-RAP
+N-acetylated alpha-linked acidic dipeptidase-like protein
+N-acetylgalactosamine-6-sulfate sulfatase
+N-acetylglutamate synthase
+N-cadherin
+N-myc
+NAALADL2
+NAC1
+NADE
+NALP3
+NANOS3
+NAP1L6
+NAT16
+NATP
+NB1
+NBPF8
+NBR2
+NCAN
+NDUFA9
+NDUFB7
+NEAT1
+NECAP 1
+NEDD4L
+NEIL1
+NEK1
+NEMO
+NEU4
+NEURL4
+NEUROG3
+NF-E4
+NF-H
+NF-YA
+NF-kappaB
+NF-kappaB p65
+NF1
+NFIA-AS2
+NFKB activating protein-like
+NFkappaB
+NG7-6
+NHEG1
+NIDDM2
+NIPA2
+NIPBL-AS1
+NKAIN1
+NKX3-2
+NKp30
+NKp46
+NKp65
+NLC1-B
+NLRP3
+NLRP6
+NLRP7
+NMES1
+NMNAT3
+NOB1
+NOD2
+NOR1
+NOS1AP
+NOS3
+NOTCH1
+NOV
+NPAS2
+NPHP4
+NPM1
+NPPA
+NPRA
+NR1I2
+NR2E3
+NR3C1
+NRAMP1
+NRAS
+NRBP1
+NRF2
+NRG1
+NRP2
+NS5ATP9
+NTF2
+NUDT17
+NUS1
+NXF4
+NY-ESO-1
+NaPi-IIa
+Nat8l
+Ndufc2
+Nectin-1
+Nectin-4
+Nemo-like kinase
+Neuroglobin
+Neuron-specific enolase
+Neuronal Calcium Sensor-1
+NfH
+Nidogen 1
+Niemann-Pick C1-Like 1
+Nkx2.8
+Notch1
+Notch2
+Nrf2
+Nrp
+NuMA
+Nup107
+Nup153
+OATP1B3-1B7
+OCA5
+OCT4 pseudogene 5
+ODF3
+ODZ4
+OFC3
+OGFRP1
+OLFML1
+OMA1
+OPA1
+OPN
+OPRT
+OR10A3
+OR4M1
+OR51E2
+OR5H2
+ORAI1
+ORAI2
+ORC1
+OS-9
+OSR2
+OST-PTP
+OTOF
+OTSC10
+OTSC2
+OTSC5
+OTX2-AS1
+OVAAL
+OVOL2
+OX40L
+Octamer transcription factor-1
+Opa interacting protein 5
+Osteoclast stimulatory transmembrane protein
+Osteoglycin
+Osteopontin
+Ostm1
+Otos
+Otx2
+P-450C18
+P-glycoprotein
+P-glycoprotein 1
+P21-activated kinase 5
+P2Y2
+P5 ATPase
+P63
+PA200
+PAAF1
+PABP4, 1, and 2
+PABPN1
+PACAP
+PACE4
+PAI-1
+PAK1
+PALB2
+PANO
+PAQR3
+PAR1
+PARK16
+PARK3
+PARL
+PARP-1
+PARP1
+PASKIN
+PAT1
+PAX4
+PAX8
+PAX9
+PAXIP1-AS1
+PBMUCL1
+PC4
+PCAN1
+PCAT-14
+PCAT18
+PCAT19
+PCAT6
+PCDH15
+PCDHA
+PCDHGB1
+PCGF6
+PCLO
+PCNA
+PCNAP1
+PCSK9
+PD-1
+PD-L1
+PDCD2
+PDE11A
+PDE6B
+PDHA1
+PDZ-Domain Containing 1
+PDZ-RhoGEF
+PEAR1
+PEBP1P3
+PEG1-AS
+PEG13
+PEPT1
+PER2
+PER4
+PEX11gamma
+PFKP
+PGF
+PGK1
+PGK1P1
+PGRMC1
+PHEX-AS1
+PHF17
+PHF20
+PHKA2
+PHKG1
+PHLDA3
+PI3Kgamma
+PI8L1
+PICSAR
+PICT1
+PIGCP1
+PIGW
+PIK3CA
+PINX1
+PIRT
+PITPbeta
+PIWIL3
+PKCalpha
+PKD1
+PKD1L3
+PKG
+PLA2G2C
+PLA2G6
+PLAC4
+PLCE1
+PLEKHG2
+PLET1
+PLIN5
+PLK1
+PLK4
+PLP
+PLSCR5
+PLUTO
+PLXNA4
+PMCHL1
+PMCHL2
+PML
+POFUT1
+POLH-AS1
+POMT1
+POMT2
+PON1
+POTEA
+POU3F2
+POU3F4
+PP2
+PPAR-gamma
+PPARG2
+PPARalpha
+PPARalpha/gamma
+PPARgamma
+PPIEL
+PPL13
+PPM1G
+PPP2R5CP
+PPP6C
+PRAC
+PRAL
+PRAMEF2
+PRAS40
+PRDM2
+PREG1
+PRG A
+PRKCQ
+PRKX
+PRLTS
+PRMT1
+PRMT2
+PRNT
+PRO2268
+PRODH
+PROSER1
+PRPF31
+PRRX1
+PRSS37
+PS beta
+PSGR
+PSMA3-AS1
+PSMB8-AS1
+PSMP
+PSORS5
+PSZA11q14
+PTBP2
+PTCSC2
+PTEN
+PTGS2
+PTK2
+PTP-MEG2
+PTPLAD2
+PTPN11
+PTPN5
+PTPRA
+PTPRG
+PTPRG Antisense RNA 1
+PTPRG-AS1
+PTX4
+PU.1
+PWRN2
+PXN-AS1
+PXT1
+PYCARD-AS1
+Paraoxonase 1
+Paraoxonase-1
+Parkin
+Pax6
+Pbx3
+Perm1
+Peroxisome Proliferator-Activated Receptor-gamma2
+Peroxisome proliferator-activated receptor gamma
+Pex14p
+Piezo1
+Pin1
+Pinkbar
+Plasminogen activator inhibitor-1
+Prefoldin 1
+Procollagen C-proteinase enhancer-1
+Programmed Death receptor 1
+Programmed cell death protein-1
+Prolactin
+Prolyl Oligopeptidase
+Prostasin
+Prostate-associated gene 4
+Psoriasis Susceptibility 1 Candidate 1
+Pyruvate kinase M2
+QRICH2
+RAB6A
+RAB8A
+RAB8a
+RACGAP1P
+RAD21
+RAD51-AS1
+RAD51C
+RAD54B
+RAD9
+RAGE
+RAI14
+RAI3
+RAP1
+RASL11A
+RASSF3
+RB1
+RBM5-AS1
+RBM8B
+RBMY
+RBP-J-interacting and tubulin-associated
+RBPJ
+RDH12
+RECK
+RELA
+RES4-22, -23 and -24
+RET
+RFXANK
+RGS1
+RHAG
+RHOA
+RHOT1
+RIG-I
+RII beta
+RING1B
+RINL
+RINN1
+RIPK1
+RIPK2
+RIPPLY3
+RLN2
+RNATapSaki
+RNF141
+RNF19B
+RNF24
+RNU2-2
+RNU5B-1
+RNU6B
+RNase 8
+RNase H1
+ROCK2
+RORalpha
+RP11-397D12.4
+RP11-462C24.1
+RP11-46A10.4
+RP22
+RP24
+RPL34-AS1
+RPL7P
+RPLP0P2
+RPS12P4
+RPS20
+RPUSD4
+RRN3
+RSC1A1
+RSF1-IT2
+RSHL1
+RSK1-3
+RSPO1-4
+RSPO2
+RT6
+RTL1
+RU2AS
+RUNX1T1
+Rab15 effector protein
+Rab24
+Rab26
+Rab27B
+Rab3 GAP
+Rab31
+Rab6C
+Rab9
+Rac1
+Rac2
+Rad9
+Raf-1
+Rai
+RalGPS 1A, 1B, and 2
+Rap1 GTPase-activating protein
+RasGRP
+RbAp48
+RdCVF
+Receptor Activator of Nuclear Factor-kappaB
+Receptor for Advanced Glycation End-Product
+Reelin
+Regulator of G protein signaling-1
+Regulator of G-protein signaling-21
+Renalase
+Reprimo-Like
+Rheb
+Rheb1
+RhoA
+Ribin
+Ro52
+Romo1
+S-mephenytoin 4'-hydroxylase
+S100A11
+S100A12
+S100Z
+S1P1, 2 and 3
+S6K2
+SAA4
+SAC3D1
+SACS
+SALL1P
+SAM-pointed domain-containing ETS-like factor
+SAMD5
+SARM1
+SATB1
+SCARNA10
+SCARNA2
+SCD1
+SCKL3
+SCN11A
+SCN2B
+SCN3A
+SCO2
+SDF-1
+SDF1
+SEDLP3
+SEMA3B-AS1
+SENCR
+SEPN1
+SEPT13
+SERCA2
+SETD6
+SFTPB
+SGK-3
+SGK1
+SGLT-2
+SGLT1
+SGOL1
+SH2D6
+SH3BP5
+SHLD3
+SHP
+SIK3
+SIRT1
+SIRT6
+SKA2
+SKAP2
+SLC11A1
+SLC12A3
+SLC15A4
+SLC15A5
+SLC17A2
+SLC19A2
+SLC22A18
+SLC22A1LS
+SLC22A4
+SLC24A4
+SLC25A29
+SLC25A30
+SLC26A3
+SLC30A8
+SLC34A2
+SLC35F2
+SLC35F3
+SLC36A3
+SLC37A2
+SLC38A1
+SLC38A4
+SLC44A4
+SLC45A3
+SLC52A1
+SLC5A9
+SLC6A15
+SLC6A4
+SLC7A11
+SLCO1B3
+SLCO2A1
+SLED1
+SLEN2
+SLI3
+SLITRK1
+SMAD3
+SMARCAL1
+SMARCB1
+SMC1A
+SMIM25
+SMS2
+SMYD2
+SNHG1
+SNHG16
+SNHG18
+SNHG20
+SNHG22
+SNHG25
+SNHG26
+SNHG9
+SNIP1
+SNORA70E
+SNORA71A
+SNORA71B
+SNORA74B
+SNORD111
+SNORD30
+SNORD33
+SNORD44
+SNORD47
+SNORD50A/B
+SNORD50B
+SNORD60
+SNORD81
+SNX10
+SNX3
+SOCS1
+SOCS2-AS1
+SOD1
+SODD
+SOGA1
+SORD2
+SOX-2
+SOX2
+SOX21-AS1
+SOX2OT
+SOX4
+SP-C.
+SP6
+SPACA3
+SPACA6
+SPAG16
+SPAK
+SPANXB1
+SPANXC
+SPATA31A3
+SPATA41
+SPATA42
+SPC21
+SPCS1
+SPD3
+SPG11
+SPG19
+SPG27
+SPG8
+SPINK1, -2, -4, and -5
+SPON1
+SPOP
+SPRR1B
+SPRR2C
+SPRY4-IT1
+SPSB1
+SQSTM1
+SR-B1
+SR-BI
+SRD5AP1
+SRF
+SRp55
+SSAV1
+SSX6
+STAMBPL1
+STAP1
+STARD8
+STAT-1
+STAT1
+STAT3
+STAT4
+STEAP4
+STIM1
+STING
+STK19
+STL
+STMND1
+STXBP2
+STXBP5
+SULF2
+SULT6B1
+SUMO2
+SUNC1
+SUV420H2
+SVH
+SWI5-MEI5
+Sam68
+Samp1
+Sec13
+Secretogranin II
+Sema3C
+Serotonin Transporter
+SerpinB3
+SifA-kinesin interacting protein
+Siglec-8
+Sirt1
+Sirt3
+Sirtuin 3
+Sirtuin 6
+Skin ASpartic Protease
+Smad2/3
+Smad3
+Smad7
+Smaug
+Smurf2
+Snail
+Sodium/Iodide Symporter
+Soggy
+Somatostatin
+Sortilin
+Sos1
+Sox10
+Spartin
+Spermatogenesis-associated 48
+Spexin
+Splicing factor proline- and glutamine-rich
+Src
+Stat3
+Stoltzfus blood group
+Strep14
+Su48
+Suppressor of cytokine signaling 3
+Syk
+Synaptopodin-2
+Syncytin-1 and -2
+T-cell receptor (TCR) alpha and beta
+T-cell receptor (TCR) beta
+TAB2
+TAF(II)32
+TAGAP
+TARBP2P
+TARDBP
+TATDN1
+TBCA-TBCE
+TCAF2
+TCF7L2
+TCO
+TCRBV20S1
+TCTN2
+TDP-43
+TEAD4
+TECTA
+TERB2
+TERT
+TEX41
+TFAP2A-AS1
+TFDP1P
+TFF3
+TFIIF
+TGF-Beta 1
+TGF-beta
+TGF-beta1
+TGFB2 overlapping transcript 1
+TGFBIp
+TGFBR3
+TGFBR3L
+TGOLN2
+TGf-beta1
+TH2LCRR
+TIEG
+TIFAB
+TIGD1
+TIKI1/2
+TIM-3
+TIM22
+TIMMDC1
+TIMP-1
+TIMP-4
+TIP60
+TIRP
+TKTL1
+TLR2
+TLR2) and 4
+TLR3
+TLR4
+TLR5
+TM7SF2
+TMEM127
+TMEM165
+TMEM212
+TMEM218
+TMEM240
+TMEM30C
+TMEM63B
+TMEM67
+TMEM95
+TMPO-AS1
+TMPOP2
+TMPRSS11A
+TMPRSS4
+TNF
+TNF-alpha
+TNF-alpha-converting enzyme
+TNF-related apoptosis-inducing ligand (TRAIL) receptor 2
+TNFAIP8
+TNFB
+TNFRSF17
+TNFalpha
+TNKS
+TODRA
+TOM40
+TONSL-AS1
+TOX3
+TP53
+TP53INP1
+TP53RK
+TPC1
+TPC1-3
+TPH2
+TPM3L2
+TPRG1-AS1
+TPX2
+TRABD2A
+TRAF1
+TRAJ19
+TRAK1
+TRAP2
+TRAPgamma
+TRAV4
+TRBD2
+TRC8
+TRG-AS1
+TRICY1
+TRIM14
+TRIM22
+TRIM37
+TRMEP1
+TROAP
+TRPA1
+TRPC1
+TRPC3
+TRPV3
+TRPV4
+TRPV6
+TRU-TCA1-1
+TSC1
+TSC2
+TSGA10
+TSH receptor
+TSHR
+TSPAN12
+TSPAN9
+TTBK2
+TTC21A
+TTI2
+TTN-AS1
+TTP
+TUC338
+TUFML
+TULA-2
+TULP1
+TUSC2P
+TUSC4
+TUSC8
+TXNDC2
+TXNIP
+TXNL4A
+TXNRD2
+Tau
+TbetaRII
+Tbx20
+Tctex2beta
+Tensin3
+Testis expressed sequence 13B
+Tfcp2l1
+Thioredoxin-interacting protein
+Tifab
+Tiki1
+TnT
+Toll like receptor 2 and 4
+Toll like receptor 4
+Toll-like receptor 2
+Toll-like receptor 4
+Toll-like receptor 8
+Toll-like receptors 2 and 5
+Transmembrane 9 Superfamily 3
+Transmembrane protein 170B
+Triadin
+Tribbles1
+Tristetraprolin
+U11
+U11/U12 snRNP
+U14
+U19
+U20
+U22
+U25-
+U35
+U6atac
+U72
+U83
+U83b
+UBA6-AS1
+UBAP1L
+UBC4
+UBDP1
+UBE2L1-4
+UBE2L2
+UBE2QL1
+UBE3B
+UCH37
+UCHL1
+UDP-glucuronosyltransferase 1A
+UGT1 A1
+UGT1A
+UGT1A3
+UGT1A4
+UGT1A6
+UGT2B17
+UNC5D
+UNC5H2
+UPF1
+UQCRB
+URAT1
+URG4
+UROC28
+USH1H
+USH2A
+USP10
+USP24
+USP26
+USP30-AS1
+USP32
+USP9X
+Uap56
+Urocortin 2
+VAMP8
+VAP-1
+VCAM-1
+VDR
+VEGF
+VEGFA
+VEGFR-2
+VEGFR2
+VGF
+VIM-AS1
+VIP
+VIPR2
+VSIG4
+VTI1A
+VWF
+Vascular Endothelial Growth Factor-A
+Vascular endothelial growth factor
+Vitamin d receptor
+Vps13B
+WAC-AS1
+WDR1
+WDR13
+WDR5
+WDR72
+WDR93
+WEE2
+WEE2-AS1
+WFS1
+WHSC2
+WIF1
+WIPI-1alpha
+WISP-1
+WNK3
+WNT7A
+WTAPP1
+WWC2-AS1
+WWOX
+Wnt3A.
+Wnt7a
+X-linked inhibitor of apoptosis
+XAB1
+XACT
+XKR4
+XPA
+XPC
+XPD
+XPLAC
+XPNPEP2
+XPO5
+XRCC1
+XRCC2
+XRCC4
+XTP3TPA
+Y2b
+YAP
+YAP1
+YTHDC2
+YTHDF1
+Yiya
+ZBTB46
+ZBTB48
+ZC3H11B
+ZFAT-AS1
+ZFP57
+ZIP4
+ZIP9
+ZIRTL
+ZMIZ1
+ZNF217
+ZNF230
+ZNF300P1
+ZNF311
+ZNF335
+ZNF396
+ZNF404
+ZNF420
+ZNF469
+ZNF479
+ZNF519
+ZNF542
+ZNF543
+ZNF558
+ZNF630
+ZNF674
+ZNF676
+ZNF700
+ZNF710
+ZNF714
+ZNF75C
+ZNF85
+ZNT6
+ZP1
+ZP2
+ZSCAN10
+ZSWIM1
+ZWINT
+Zbed3
+Zinc finger E-box Binding homeobox 1
+Zip2
+ZnT5
+abeta
+acetylcholinesterase
+activation-induced cytidine deaminase
+acyl-CoA synthetase long-chain family member 5
+acyl-CoA synthetase medium-chain family member 4
+adenomatous polyposis coli protein
+adiponectin
+adrenomedullin
+aggrecan
+aldose reductase
+allograft inflammatory factor-1
+alpha 2-HS glycoprotein
+alpha s1-casein
+alpha-N-acetylgalactosaminidase
+alpha-Synuclein
+alpha-synuclein
+alpha7 nicotinic acetylcholine receptor
+aminopeptidase N
+amylin
+amyloid precursor protein
+amyloid-beta
+androgen receptor
+angiopoietin 1
+angiopoietin-like 4
+angiotensin II
+angiotensin-converting enzyme
+angiotensin-converting enzyme 2
+angiotensinogen
+annexin II receptor
+apelin
+apoAI
+apolipoprotein A-I
+apolipoprotein A1/C3/A4/A5
+apolipoprotein B-100
+apolipoprotein E
+apolipoprotein E3
+apolipoprotein F
+apoptosis related protein 3
+arginase 1
+arylsulfatase I
+bFGF
+bax
+bcl-2
+beta 1 integrin
+beta-Klotho
+beta-amyloid precursor protein
+beta-catenin
+beta-defensin 118
+beta-galactosidase
+beta1 integrin
+beta1 integrins
+beta1,3-glucosyltransferase
+beta1- and beta2-adrenoceptors
+beta2-GPI
+beta2-adrenergic receptor
+beta2-adrenoceptor
+betaTrCP1
+biglycan
+binding protein
+bradykinin
+brain natriuretic peptide
+brain-derived neurotrophic factor
+c-Cbl
+c-IAP-1/2
+c-Jun
+c-Jun NH(2)-terminal kinase
+c-K-ras
+c-K-ras-1
+c-Kit
+c-Met
+c-Myc
+c-Src
+c-myc
+c-myc promoter-binding protein
+c11orf45
+c1orf37-dup
+cIAP2
+cJun
+cPOP2
+calcitonin receptor-like receptor
+calcium-modulating cyclophilin ligand
+caldesmon
+calpastatin
+calponin 2
+carboxyl ester lipase
+carboxylesterase 1
+carboxypeptidase N
+carcinoembryonic antigen
+cardiac troponin C
+caspase 3
+caspase-3
+caspase-7
+catechol-O-methyltransferase
+cathepsin B
+cathepsins B, H, K, L, and S
+caveolin-1
+cdc2
+cdr2
+cellular retinol binding protein 1
+cementum protein 1
+chondroadherin
+chondroitin 4-O-sulfotransferase 1 and -2
+chondromodulin-I
+ck1alpha
+claudin-11
+claudin-2
+collectin liver 1
+complement 3
+complement C1r
+complement component 1 q subcomponent receptor 1
+complement component C2
+connexin 43, 40 and 45
+connexin 46
+connexin43
+connexin50
+copper transporter protein 1
+corin
+coronin 1
+cortexin 3
+coxsackie-and-adenovirus receptor
+ctla-4
+cyclin D1
+cyclin E1
+cyclin G2
+cyclin H.
+cyclooxygenase 1
+cyclooxygenase 2
+cyclooxygenase-2
+cystic fibrosis transmembrane conductance regulator
+cystinosin
+cytochrome P450 (CYP) 2C9 and 2C19
+cytochrome P450 1A2 and 2D6
+cytokeratin 10
+cytokeratin 18
+cytokeratin 8 and 18
+cytotoxic T-lymphocyte antigen 4
+death-associated protein kinase
+desmoplakin
+diacylglycerol acyltransferase 2
+diacylglycerol kinase beta
+dopamine D2 and D3 receptors
+dopamine D4 receptor
+dopamine receptor D2
+dual-specificity phosphatase 5 pseudogene 1
+eIF4B
+eNOS
+eferin
+elongation factor 2 kinase
+endonexin II
+endothelial cell protein C receptor
+endothelial nitric oxide synthase
+endothelin-B
+enteropeptidase
+envelope protein
+epidermal growth factor receptor
+epidermal growth factor receptor 2
+epithelial cell transforming sequence-2
+epithelial membrane protein 1
+erythropoietin
+esterase B3
+estrogen receptor
+estrogen receptor alpha
+estrogen receptor beta
+eukaryotic translation initiation factor 4 gamma, 3
+factor V
+factor V Leiden
+farnesyl pyrophosphate synthase
+fatty acid-binding protein 9
+fibroblast growth factor receptor 2
+fms-like tyrosine kinase 1
+focal adhesion kinase
+folliculin
+fucosyltransferase IV
+galactose-1-phosphate uridyltransferase
+galectin-10
+galectin-12
+galectin-3
+galectin-4
+gamma-glutamyl transferase 1
+gastric cancer-associated transcript 3
+gastrokine-2
+geranylgeranyl pyrophosphate synthase
+giantin
+glia maturation factor
+glial cells missing a
+glucocorticoid receptor
+glucocorticoid-induced leucine zipper
+glutamine synthetase
+glutaminyl-tRNA Synthetase
+glutathione S-transferase P1
+glutathione S-transferase T1, M1, and P1
+glycogen synthase kinase-3beta
+glycyl-tRNA synthetase
+glyoxalase I
+gp170
+growth arrest and DNA damage inducible 45a
+growth hormone
+guanylate-binding protein 1
+guanylate-binding protein 3
+hArp8
+hCGbeta
+hHR23B
+hMLH1
+hPepT1
+hPrp3
+hSpry2
+hVH-4
+hcrt
+heme oxygenase-1
+hepatocyte nuclear factor-1alpha
+hepcidin
+hexokinase
+histidine decarboxylase
+histidine-triad nucleotide-binding protein-1
+histone H1.4
+histone deacetylase 1
+hsa-miR-2053
+hsa-miR-210
+hsa-miR-372
+hsa-miR-4274
+hsa-miR-4430
+hsa-miR-4639
+hsa-miR-5787
+hsa-miR-600
+hsa-miR-623
+hsa-miR-626
+hsa-miR-631
+hsa-miR-7704
+hsa-mir-1293
+hsp60
+huntingtin
+hydroxymethylbilane synthase
+hypoxia-inducible factor-1alpha
+iNOS
+ice
+insulin
+insulin receptor
+insulin receptor substrate-3
+insulin-like growth factor 1
+insulin-like growth factor 1 receptor
+insulin-like growth factor-1
+insulin-like growth factor-1 receptor
+integrin alpha10
+integrin beta-3
+integrin beta1
+integrin subunit beta3
+intercellular adhesion molecule-1
+interleukin (IL)-4, -10, and -13
+interleukin (IL)1alpha
+interleukin 1 receptor antagonist
+interleukin-1
+interleukin-10
+interleukin-15
+interleukin-18
+interleukin-18 binding protein
+interleukin-1alpha
+interleukin-1beta
+interleukin-22
+interleukin-6
+interleukin-8
+interleukins -6 and -8
+interleukins 4 and 10
+intraflagellar transport protein 20
+involucrin
+isovaleryl-CoA dehydrogenase
+kallikrein-related peptidase 12
+kappa opioid receptor
+keratin 12
+keratinocyte differentiation-associated protein
+kinesin heavy chain
+lactate dehydrogenase A
+lactoperoxidase
+lamin
+lamin A
+laminin alpha2
+layilin
+leptin
+let-7i
+leucine-rich repeat kinase 2
+leukemia inhibitory factor
+leukemia-associated RhoGEF
+leukocyte-associated Ig-like receptor-1
+leukotriene B4 12-hydroxydehydrogenase
+linc-223
+linc-MD1
+linc00337
+linc00462
+linc00598
+linc00936
+linc01013
+lncTCF7
+lncUSMycN
+long intergenic non-coding RNA 01087
+long stress-induced noncoding transcript 5
+luteinizing hormone-releasing hormone
+luteinizing hormone/choriogonadotropin receptor
+lysosomal-associated transmembrane protein 4 beta
+lysosome-associated membrane protein-2
+lysozyme
+mRNA cap methyltransferase
+mTOR
+macrophage-derived chemokine
+mammalian target of rapamycin
+manganese superoxide dismutase
+mannose binding lectin
+marvelD3
+matrix Gla-protein
+matrix metalloproteinase (MMP)-2 and -9
+matrix metalloproteinase 9
+matrix metalloproteinase-1, -2, -9
+matrix metalloproteinase-26
+matrix metalloproteinase-7
+matrix metalloproteinase-9
+matrix metalloproteinases (MMPs) 2 and 9
+mdig
+melanocortin-3 receptor
+melanocortin-4 receptor
+melusin
+membrane-type 1 matrix metalloproteinase
+metal-responsive transcription factor 1
+metalloproteinase (MMP)-2
+methionine aminopeptidase-2
+methylenetetrahydrofolate reductase
+methylmalonyl-CoA mutase
+miR-1183
+miR-1206
+miR-1224
+miR-1226
+miR-1234
+miR-1244
+miR-1245a
+miR-126-3p
+miR-1268a
+miR-1268b
+miR-1276
+miR-1286
+miR-1293
+miR-1294
+miR-139
+miR-144
+miR-150
+miR-1587
+miR-16, -29a and -134
+miR-17-5p
+miR-1825
+miR-185
+miR-190
+miR-1909
+miR-195
+miR-1976
+miR-205
+miR-2053
+miR-21
+miR-210
+miR-216a
+miR-222
+miR-223
+miR-2392
+miR-23c
+miR-3,178
+miR-3064
+miR-3125
+miR-3133
+miR-3148
+miR-3151
+miR-3167
+miR-3174
+miR-3182
+miR-3184
+miR-3189
+miR-3196
+miR-3198
+miR-326
+miR-34a
+miR-3612
+miR-3615
+miR-3622a
+miR-3646
+miR-3648
+miR-3650
+miR-3651
+miR-3659
+miR-367
+miR-376a1
+miR-378c
+miR-378g
+miR-379
+miR-382
+miR-3908
+miR-3917
+miR-3941
+miR-3960
+miR-4288
+miR-4293
+miR-4301
+miR-4316
+miR-4326
+miR-4454
+miR-4469
+miR-448-3p
+miR-4484
+miR-4491
+miR-4496
+miR-4497
+miR-449c
+miR-4510
+miR-4521
+miR-4632
+miR-4633
+miR-4639-
+miR-4641
+miR-4669
+miR-4688
+miR-4734
+miR-4744
+miR-4767
+miR-4796
+miR-488
+miR-498
+miR-506
+miR-507
+miR-5188
+miR-5193
+miR-5194
+miR-520b
+miR-524
+miR-543
+miR-548a-3p
+miR-557
+miR-559
+miR-562
+miR-567
+miR-5688
+miR-5694
+miR-5702
+miR-5703
+miR-571
+miR-572
+miR-573
+miR-591
+miR-593
+miR-598
+miR-599
+miR-602
+miR-607
+miR-610
+miR-614
+miR-6165
+miR-617
+miR-620
+miR-626
+miR-640
+miR-652
+miR-668
+miR-6720
+miR-6727-
+miR-718
+miR-764
+miR-765
+miR-7706
+miR-7977
+miR-8082
+miR-8485
+miR-890
+miR-891b
+miR-892a
+miR-922
+miR-924
+miR-934
+miR-939
+miR-96
+miR1264
+miR4458HG
+miR4673
+miR4749
+miR584
+miR655
+microRNA-1234
+microRNA-1278
+microRNA-155
+microRNA-205
+microRNA-21
+microRNA-324
+microRNA-3612
+microRNA-4301
+microRNA-4316
+microRNA-4474/4717
+microRNA-4661
+microRNA-513b
+microRNA-548ac
+microRNA-580
+microRNA-620
+microRNA-635
+microRNA-7515
+microRNA-8073
+microRNA-920
+microRNA-933
+mir-21
+mir-4638
+mitochondrial translational initiation factor 3
+mitogen-activated protein kinase activated protein kinase-2
+mitogen-activated protein kinase kinase-4
+monocyte chemoattractant protein-1
+mortalin-2
+mucin 9
+multidrug resistance protein (MRP) 4
+murine double minute 2
+mutL homolog-1
+myelin oligodendrocyte glycoprotein
+myostatin
+nPE1
+nPE2
+ncR-uPAR
+nectin-1
+neonatal Fc receptor
+nephrin
+netrin-1
+neu
+neural cell adhesion molecule-1
+neurotensin
+neurturin
+neutral endopeptidase
+neutral sphingomyelinase-2
+neutrophil elastase
+neutrophil gelatinase-associated lipocalin
+nitric oxide synthase interacting protein
+nm23-H1
+nuclear factor erythroid 2-related factor 2
+nuclear factor kappaB
+nucleophosmin
+olfactory receptor family 51 subfamily j member 1
+organic anion transporters 1 and 3
+ornithine aminotransferase
+osteopontin
+osteoprotegerin
+oxidized low-density lipoprotein receptor-1
+oxytocinase
+p110
+p120 catenin
+p16
+p16INK4A
+p21
+p21-activated kinase 1
+p27KIP1
+p300
+p38
+p38 MAP kinase
+p38 mitogen-activated protein kinase
+p42.3
+p45 NF-E2
+p53
+p62
+p62dok
+p63
+p65
+p73
+p75
+pFIV
+pG2
+pRB
+pancreatic polypeptide-2
+parafibromin
+paraoxonase
+paraoxonase 1
+paraoxonase1
+parkin
+peptidase E
+peptidyl prolyl isomerase-like 1
+peroxiredoxin 6
+peroxisome proliferator-activated receptor gamma
+phenylalanine hydroxylase
+phosphatase and tensin homolog
+phosphatidylethanolamine N-methyltransferase
+phosphatidylinositol 4-kinase type III-alpha
+phospholipase A2 group IIE
+phospholipase C (PLC) zeta 1
+pim-1
+pituitary tumor transforming gene
+placental alkaline phosphatase
+plakophilin 1
+plasminogen activator inhibitor type 2
+plasminogen activator inhibitor-1
+platelet-derived growth factor receptor-alpha
+plexin-C1
+poly(A)-binding protein nuclear 1
+poly(ADP-ribose) polymerase-1
+polyadenylate-binding protein 1
+polyadenylated-binding protein)-interacting protein (Paip) 2
+polycystin-2
+polynucleotide kinase 3'-phosphatase
+prader-willi region non-protein-coding RNA 1 and 2
+pregnancy-associated plasma protein-A
+pregnane X receptor
+prenylcysteine lyase
+prepronociceptin
+profilin-1
+profilins 3 and 4
+progesterone-induced blocking factor
+programmed cell death protein 1
+programmed death ligand 1
+properdin
+prostate cancer-associated transcript 18
+prostate stem cell antigen
+protamines 1 and 2
+prothrombin
+rTS
+raptor
+receptor for advanced glycation end products
+renin
+repressor element-1 silencing transcription factor
+retinoic acid receptor
+retinol binding protein-4
+rhodopsin
+ribosomal protein L3 homologous
+scleraxis
+seizure-related (SEZ) 6
+semaphorin-3A
+serotonin transporter
+signal transducer and activator of transcription 3
+sirtuin 2
+snoRD86
+sodium-dependent multivitamin transporter
+solute carrier family 16, member 7
+sorbitol dehydrogenase
+sorting nexin (SNX) 3
+specificity protein 1
+spermatogenesis-related gene
+spermidine/spermine N(1)-acetyltransferase
+splicing factor proline- and glutamine-rich
+sterol C5 desaturase
+stromal cell-derived factor-1
+superoxide dismutase 1
+suppressor of cytokine signaling 3
+suppressor of cytokine signaling-3
+suppressors of cytokine signaling 1, 3, 5
+surf-6
+surfactant protein D
+synaptotagmin 10
+syndecan
+syntaxin 10
+sytdep
+tRNA
+tandem-PH-domain-containing protein-1
+tapasin
+tau
+telethonin
+telomerase reverse transcriptase
+testicular orphan receptor 4
+testis serine protease 1
+testis sodium channel 1
+testis-specific poly(A) polymerase
+thrombin
+thromboxane A2 receptor
+thymidine phosphorylase
+thyroglobulin
+thyroid peroxidase
+thyroid transcription factor-1
+tissue factor
+tissue inhibitor of metalloproteinases-1
+tissue inhibitor of metalloprotienase-1
+toll-like receptor 2
+toll-like receptor 5
+toll-like receptor-4 and 8
+topoisomerase II alpha and beta
+trace amine receptor 1
+transforming growth factor beta
+transforming growth factor beta2
+transforming growth factor-beta
+transglutaminase 7
+transient receptor potential melastatin 1
+translin
+transmembrane protease serine 2
+transmembrane protein 7
+transmembrane protein 9B
+tropoelastin
+tumor necrosis factor alpha
+tumor necrosis factor-alpha
+tumor necrosis factor-alpha converting enzyme
+two-pore channel 1
+uPA
+ubxn6
+urocortin
+uroguanylin
+urokinase-type plasminogen activator
+v7-3
+vascular endothelial growth factor
+vascular endothelial growth factor receptor-2
+vascular endothelial growth factor-A
+vascular endothelial growth factor-C
+vasopressin V2 receptor
+vaspin
+versican
+vesicular glutamate transporter 2
+vimentin
+vitamin D receptor
+von Hippel-Lindau-like protein
+von Willebrand Factor
+von Willebrand factor
+xCT
+zeta-sarcoglycan
+zinc finger protein 134
+zinc finger protein like 1
+zonadhesin

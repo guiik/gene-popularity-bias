@@ -1,0 +1,17 @@
+Bootstrap: docker
+From: ollama/ollama:latest
+
+%post
+    apt-get update && apt-get install -y python3 python3-pip
+    apt-get clean
+    rm -rf /var/lib/apt/lists/*
+
+%environment
+    export LC_ALL=C
+    export PATH=/usr/local/bin:$PATH
+    export OLLAMA_MODELS=/ollama_models
+
+%labels
+    Author guilherme.bittencourt
+    Version 2.0
+    Description Ollama + Python3 para inferencia LLM no Sdumont

@@ -1,0 +1,17 @@
+{
+    "offline_paths": {
+        "hgnc": "data/hgnc_complete.json",
+        "uniprot": "data/uniprot_mapping.tsv",
+        "mirbase": "data/aliases.txt"
+    },
+    "apis": {
+        "uniprot": {
+            "endpoint": "https://rest.uniprot.org/uniprotkb/search",
+            "timeout_seconds": 10
+        },
+        "hgnc": {
+            "endpoint": "http://rest.genenames.org/search/",
+            "timeout_seconds": 5
+        }
+    }
+}
